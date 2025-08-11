@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Blogtown
 ---
-
+This is my page so that I can learn 
